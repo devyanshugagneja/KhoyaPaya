@@ -55,8 +55,8 @@ The Khoya-Paya system demonstrated high accuracy in classifying facial features 
 
 - **Naman Mittal (21BCE10685)**: Frontend development and user-centric design.
 - **Milind Srivastava (21BCE11545)**: Project lead, system integration, and data security.
-- **Devyanshu Gagneja (21BCE11512)**: ReactJS implementation, UI design, and backend development.
-- **Harshdeep Singh (21BCE11461)**: Login/logout functionality, CRUD operations, and route protection.
+- **Devyanshu Gagneja (21BCE11512)**: ReactJS implementation, UI design, backend development, Login/logout functionality and CRUD operations.
+- **Harshdeep Singh (21BCE11461)**: route protection.
 - **Vansh Dugar (21MIM10039)**: AI model development and image recognition.
 - **Devang Giri Goswami (21BAI10114)**: Biometric authentication implementation.
 - **Bishal Roy (21BAI10244)**: Project management and prototype development.
